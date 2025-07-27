@@ -1,25 +1,29 @@
-✅ Project Management Dashboard – Description
-A web-based Project Management Dashboard designed to help teams organize, track, and manage their projects efficiently. It provides a centralized view of tasks, deadlines, and progress to improve productivity and collaboration.
+# 📊 Project Management Dashboard
 
-✅ Key Features
-📌 Task Management – Create, update, and delete tasks easily
+A **web-based Project Management Dashboard** designed to help teams and individuals organize, track, and manage projects efficiently.  
+It provides a **centralized view of tasks, deadlines, and project progress** with an easy-to-use interface.
 
-📅 Deadline Tracking – View upcoming deadlines & overdue tasks
+---
 
-📊 Progress Visualization – Charts/graphs to track project status
+## 🚀 Features
+- ✅ **Task Management** – Add, edit, and delete tasks easily  
+- ✅ **Deadline Tracking** – View upcoming deadlines and overdue tasks  
+- ✅ **Progress Visualization** – Charts/graphs for project status  
+- ✅ **Team Collaboration** – Assign tasks to team members  
+- ✅ **Responsive Design** – Works smoothly on desktop & mobile  
 
-👥 Team Collaboration – Assign tasks to team members
+---
 
-🔔 Notifications/Reminders – Stay updated with pending work
+## 🛠️ Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling & responsive design  
+- **JavaScript** – Dynamic functionality  
+- *(Optional: Backend – Node.js / Django / Firebase)*  
 
-✅ Responsive Design – Works smoothly on all devices
+---
 
-✅ Tech Stack
-Frontend: HTML, CSS, JavaScript
-
-Backend (optional): Node.js / Django / PHP (if implemented)
-
-Database (optional): MySQL / MongoDB / Firebase
-
-✅ Purpose
-This dashboard helps teams & individuals manage multiple projects in one place, ensuring better time management, task prioritization, and productivity.
+## 📂 Project Structure
+project-management-dashboard/
+│── index.html # Main dashboard UI
+│── style.css # Styling
+│── script.js # Core logic
