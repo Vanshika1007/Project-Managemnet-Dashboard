@@ -27,3 +27,7 @@ project-management-dashboard/
 │── index.html # Main dashboard UI
 │── style.css # Styling
 │── script.js # Core logic
+
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](ne2.JPG)
